@@ -1,0 +1,11 @@
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\bin\Debug\RegexRename.exe.config
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\bin\Debug\RegexRename.exe
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\bin\Debug\RegexRename.pdb
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\RegexRename.MainClass.resources
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\RegexRename.Properties.Resources.resources
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\RegexRename.exe
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\RegexRename.pdb
+C:\Users\henderea\documents\visual studio 2010\Projects\RegexRename\RegexRename\obj\x86\Debug\RegexRename.RenameDialog.resources
